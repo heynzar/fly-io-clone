@@ -13,6 +13,16 @@ Check out the live demo [here](https://fly-io.vercel.app/).
 
 ---
 
+## 🎯 Why I Built It?
+
+One day, I came across Fly.io's landing page and was instantly hooked. Its clean design and smooth functionality really stood out to me.
+
+I couldn’t stop thinking about it, so I decided to try something new: recreate it from scratch. It felt like the perfect way to challenge myself and learn along the way.
+
+And you know what? It truly deserved the effort.
+
+---
+
 ## ✨ Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
@@ -22,12 +32,12 @@ Check out the live demo [here](https://fly-io.vercel.app/).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
-- Tailwind CSS
-- Reactjs
-- Nextjs
-- TypeScript
+- [![Next][Next.js]][Next-url]
+- [![React][React.js]][React-url]
+- [![TypeScript][TypeScript]][TypeScript-url]
+- [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
 ---
 
@@ -35,26 +45,26 @@ Check out the live demo [here](https://fly-io.vercel.app/).
 
 1. Clone the Repository
 
-```bash
-git clone https://github.com/heynzar/fly-io-clone.git
+```sh
+git clone https://github.com/heynzar/fly-io-landing-page.git
 cd fly-io-clone
 ```
 
 2. Install Dependencies
 
-```bash
+```sh
 npm install
 ```
 
 3. Run the Project
 
-```bash
+```sh
 npm run dev
 ```
 
 ---
 
-## 👏 Acknowledgementse
+## 👏 Acknowledgements
 
 This project is a clone of the [fly.io](https://fly.io) landing page and was created for educational and practice purposes. All rights to the original design belong to fly.io.
 
@@ -83,14 +93,13 @@ Contributions are welcome! If you’d like to help improve this project, please 
 
 2. Clone Your Forked Repository :
 
-```bash
-git clone https://github.com/heynzar/fly-io-clone.git
-cd fly-io-clone
+```sh
+git clone https://github.com/heynzar/fly-io-landing-page.git
 ```
 
 3. Create a New Branch
 
-```bash
+```sh
 git checkout -b feature-name
 ```
 
@@ -99,16 +108,28 @@ git checkout -b feature-name
 
 5. Commit Your Changes
 
-```bash
+```sh
 git add .
 git commit -m "Add description of changes"
 ```
 
 6. Push to Your Branch
 
-```bash
+```sh
 git push origin feature-name
 ```
 
 7. Create a Pull Request :
-   Go to the original repository and create a Pull Request describing your changes.
+   Go to the original repository and create a Pull Request describing your changes.7
+
+
+
+
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://react.dev/
+[TypeScript]: https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=60a5fa
+[TypeScript-url]: https://www.typescriptlang.org
+[TailwindCSS]: https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
+[TailwindCSS-url]: https://tailwindcss.com
